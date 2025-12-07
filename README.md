@@ -1,4 +1,4 @@
-# Ruler-Tech--Viewer for SR 2030
+# Tech Tree Viewer & Analyzer for 2030
 a part of the Intelligence Suite
 
 https://www.youtube.com/watch?v=WDv7UGElNUk
