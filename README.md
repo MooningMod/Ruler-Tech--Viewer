@@ -1,6 +1,7 @@
 # Ruler-Tech--Viewer for SR 2030
 a part of the Intelligence Suite
 
+https://www.youtube.com/watch?v=WDv7UGElNUk
 
 A visual analyzer for SR2030’s full technology tree.
 
