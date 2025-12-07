@@ -120,6 +120,7 @@ EFFECT_DEFINITIONS = {
     16: {'name': 'Facility Build Speed',       'category': 'Production',  'icon': '🏗'},
     18: {'name': 'Finished Goods Efficiency',  'category': 'Industry',    'icon': '⚙'},
     19: {'name': 'Finished Goods Cost',        'category': 'Industry',    'icon': '💲'},
+    20: {'name': 'Transportation Improvement', 'category': 'Logistics',    'icon': '⛽'},
     21: {'name': 'Space Knowledge',            'category': 'Space',       'icon': '☄'},
     22: {'name': 'Nuclear Plant Maint.',       'category': 'Energy',      'icon': '☢'},
 
@@ -162,6 +163,7 @@ EFFECT_DEFINITIONS = {
     93: {'name': 'Industrial Efficiency',      'category': 'Economy',     'icon': '📈'},
     94: {'name': 'Military Goods Efficiency',  'category': 'Economy',     'icon': '📈'},
     96: {'name': 'Garrison Infantry Level',  'category': 'Defense',     'icon': '🛡'},
+    97: {'name': 'Locomotive Unit Level',  'category': 'Logistics',     'icon': '⛽'},
 
     # --- Social Ratings & Costs (100-115) ---
     100: {'name': 'Healthcare Rating',         'category': 'Social',      'icon': '✚'},
